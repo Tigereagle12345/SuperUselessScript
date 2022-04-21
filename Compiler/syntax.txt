@@ -1,0 +1,7 @@
+o? (Open File)
+*? (Multiplies)
+-? (Subtracts)
+/? (Divieds)
++? (Adds)
+w? (While)
+i? (If)
