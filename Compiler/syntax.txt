@@ -1,8 +1,0 @@
-<? (Read File)
->? (Write File)
-*? (Multiplies)
--? (Subtracts)
-/? (Divieds)
-+? (Adds)
-w? (While)
-i? (If)
